@@ -1,4 +1,4 @@
-# Reinforcement Learning SpaceShip Route optimization
+# Reinforcement Learning SpaceShip Route optimization with Swingby
 
 ## Files
 ![image](https://github.com/kcasl/RL-Route-optimization/assets/93076513/d461f91c-a018-4776-83da-1cf48c5de6af)
